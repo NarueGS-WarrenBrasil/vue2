@@ -19,10 +19,12 @@ export default {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        border-radius: 35px;
+        border-radius: 25px;
         border-color: rgb(71, 71, 71); ;
-        padding: 10% 50%;
+        padding: 15% 50%;
         margin-top: 12%;
-        margin-right: 3px;
+        margin-right: 3%;
     }
+
+    
 </style>

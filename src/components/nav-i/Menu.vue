@@ -1,10 +1,16 @@
 <template>
-    <a href="#">Menu</a>
+    <a href="#">Menu{{num}}</a>
 </template>
 
 <script>
     export default {
-        name:'Menu'
+        name:'Menu',
+        data() {
+            return {
+                num: 1,
+            }
+            
+        },
     }
 </script>
 

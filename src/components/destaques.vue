@@ -21,11 +21,12 @@
                 <h1 id="title2">Tá consado de Loren ipsum?</h1>
                 <h3>Então vem pra Warren!<br>Aqui te impulsionamos pra <strong>bem longe</strong> do velho<br>Lorem ipsum etiam congue
                  <br>hac blandit class duis, aliquam<br>
-                 donec gravida sagittis sollicitudin primis<br> 
+                 donec gravida sagittis <h3 id="borda">elementum scelerisque potenti 
+                 <br>urna sagittis id, curae conubia etiam </h3> 
+                 <h3> primis
                  pulvinar, egestas tincidunt lacus suscipit <br>nibh senectus. ultricies leo aliquet<br> 
                  potenti dolor mauris<br> eu arcu etiam habitasse<br> 
-                 pulvinar, in netus pretium <br>elementum scelerisque potenti 
-                 <br>urna sagittis id, curae conubia etiam <br> </h3>
+                 pulvinar, in netus pretium <br></h3></h3>
                  <BotaoM id="b"/>
             </div>
     </div>
@@ -83,5 +84,9 @@
         margin: 0% 12%;
         margin-left: 0%;
     }
-    
+    #borda{
+        border-bottom: solid 2px rgb(255, 0, 98);
+        
+    }
+
 </style>
